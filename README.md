@@ -1,4 +1,4 @@
-### Olá! Me chamo Alyson, tenho 20 anos. Estou no 5° período de Engenharia Eletrônica, na UFS - Universidade Federal De Sergipe.
+### Olá! Me chamo Alyson, tenho 21 anos. Estou no 6° período de Engenharia Eletrônica, na UFS - Universidade Federal De Sergipe.
 
 Atualmente estudando desenvolvimento web, na área de back-end. Tendo projetos consolidados da faculdade (Com diferentes linguagens de programação) e me comprometendo para desbravar tecnologias novas.
 
