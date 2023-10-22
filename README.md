@@ -20,8 +20,7 @@ Me comprometi em aprender e dominar Javascript (linguagem a qual já tive contat
 [![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 #
-
-[![Alyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=alysonsz&show_icons=true&theme=tokyonight)]()
+[![Alyson's Github stats](https://github-readme-stats.vercel.app/api?username=alysonsz&show_icons=true&theme=tokyonight)](https://github.com/alysonsz/github-readme-stats#onedark)
 
 #
 ### Contatos
