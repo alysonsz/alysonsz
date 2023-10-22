@@ -21,7 +21,7 @@ Me comprometi em aprender e dominar Javascript (linguagem a qual já tive contat
 
 #
 
-[![Alyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=alysonsz&show_icons=true&theme=tokyonight)](https://github.com/alysonsz/github-readme-stats#onedark)
+[![Alyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=alysonsz&show_icons=true&theme=tokyonight)](https://github.com/alysonsz/github-readme-stats#onedark)]
 
 #
 ### Contatos
