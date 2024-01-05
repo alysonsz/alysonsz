@@ -1,7 +1,6 @@
 ### Olá! Me chamo Alyson, tenho 21 anos. Estou no 6° período de Engenharia Eletrônica, na UFS - Universidade Federal De Sergipe.
 
 Atualmente estudando desenvolvimento web, na área de back-end. Tendo projetos consolidados da faculdade (Com diferentes linguagens de programação) e me comprometendo para desbravar tecnologias novas.
-
 Me comprometi em aprender e dominar Javascript (linguagem a qual já tive contato na faculdade), Node js e SQL! 
 
 #
@@ -20,9 +19,7 @@ Me comprometi em aprender e dominar Javascript (linguagem a qual já tive contat
 [![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 #
-### Contatos
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alysonsouza36@gmail.com)
+[![Alyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=alysonsz&show_icons=true&theme=radical)](https://github.com/alysonsz/github-readme-stats#radical)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyson-souza-0959a025b/)
 #
