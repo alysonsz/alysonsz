@@ -19,7 +19,4 @@ Me comprometi em aprender e dominar C# focando na parte de criação de WEB API'
 #
 
 #
-
-[![Alyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=alysonsz&show_icons=true&theme=radical)](https://github.com/alysonsz/github-readme-stats#radical)
-
 #
