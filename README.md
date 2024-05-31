@@ -1,7 +1,7 @@
 ### Olá! Me chamo Alyson, tenho 21 anos. Curso Análise e Desenvolvimento de Sistemas na UNINASSAU, e Curso o 7° período de Engenharia Eletrônica, na UFS - Universidade Federal De Sergipe.
 
-Atualmente estudando desenvolvimento web, na área de back-end. Tendo projetos consolidados da faculdade (Com diferentes linguagens de programação) e me comprometendo para desbravar tecnologias novas.
-Me comprometi em aprender e dominar C# focando na parte de criação de WEB API's, pretendendo me aprofundar em Blazor! 
+Tenho desenvolvimento nas linguagens de programação C#, Java, Python, C, JavaScript, respectivamente na minha ordem de preferência.
+Tenho experiência individual com Web API, MySQL, Blazor, JavaFX, Matplotlib, porém busco experiência formal na área de programação para moldar o meu ramo nesse trajeto, afinal, é o que busco para a minha vida, preferencialmente back-end.
 
 #
 ### Tecnologias que eu uso no meu dia
@@ -17,6 +17,7 @@ Me comprometi em aprender e dominar C# focando na parte de criação de WEB API'
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 
 #
-
-#
+### Contatos
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/q9uVWm)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyson-souza-0959a025b/)
 #
