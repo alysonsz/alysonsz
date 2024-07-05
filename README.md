@@ -1,8 +1,7 @@
 ### Olá! Me chamo Alyson, tenho 21 anos. Curso Análise e Desenvolvimento de Sistemas na UNINASSAU, Graduação incompleta de Engenharia Eletrônica, na UFS.
 
 Através de projetos que fiz, adquiri conhecimento nas práticas de desenvolvimento de software.
-Entre esses conhecimentos nas linguagens: C#, Python, Java, JavaScript e conhecimentos em Angular e React.
-Minha especialização é em desenvolvimento com C#: tanto front-end, quanto back-end, utilizando .NET, Web API, SQL, Blazor, Restful API.
+Minha especialização é em desenvolvimento com C#: tanto front-end, quanto back-end, utilizando .NET, Angular, Blazor, SQL.
 
 #
 ### Tecnologias que eu uso no meu dia
