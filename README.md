@@ -1,4 +1,4 @@
-### Olá! Me chamo Alyson, tenho 22 anos. Curso Análise e Desenvolvimento de Sistemas na UNINASSAU, Graduação de Engenharia Eletrônica na UFS.
+### Olá! Me chamo Alyson, tenho 22 anos. Sou Programador Back-end, cursando Análise e Desenvolvimento de Sistemas.
 
 Em prol de desenvolver uma carreira sólida na área de programação oferecendo novas soluções, sempre disposto a enfrentar novos desafios, e paralelamente, aperfeiçoar as minhas habilidades para contribuir com soluções inovadoras escaláveis e eficientes, visando a proatividade. Facilidade para aprender e me adaptar rapidamente a novas tecnologias e ambientes de desenvolvimento.
 
