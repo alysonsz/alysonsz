@@ -1,4 +1,4 @@
-<img width="1594" height="396" alt="" src="https://media.licdn.com/dms/image/v2/D4D16AQHb-Sb4n47FDA/profile-displaybackgroundimage-shrink_350_1400/B4DZfRio7oGgAY-/0/1751567209196?e=1758153600&v=beta&t=BKEZon250K1ZWX9W9npgJXxh_c2uA0XlajpNImljY2k" />
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img width="720" height="480" alt="hero" src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-bcfc-61f8-ad70-64f014f5502e/raw?se=2025-07-18T20%3A53%3A02Z&sp=r&sv=2024-08-04&sr=b&scid=0e659858-5466-506d-b664-c6dc5277cb75&skoid=b0fd38cc-3d33-418f-920e-4798de4acdd1&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-18T09%3A13%3A23Z&ske=2025-07-19T09%3A13%3A23Z&sks=b&skv=2024-08-04&sig=8gFa2kCbEtfxxd7k9w4RVi/IdBrhWG/zJNwqqyG07J8%3D" />
 
 ­­­­­­⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![](https://komarev.com/ghpvc/?username=alysonsz&style=for-the-badge&label=PROFILE+VIEWS)
 <a href="./cv/CV - Alyson Carregosa.pdf" target="_blank">
@@ -83,5 +83,3 @@ public class NetDeveloper
 
 - 📌 **Current Focus**:
   - *Deepening knowledge in Clean Architecture and scalable projects with .NET* 
-
----
