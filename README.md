@@ -82,7 +82,7 @@ public class NetDeveloper
 - 📌 **Highlight Projects**:
   - *[EventFlow](https://github.com/alysonsz/EventFlow-API) — A robust implementation applying Clean Architecture and Event-Driven principles.*
   - *[Finance](https://github.com/alysonsz/Finance-API) — A modular finance API leveraging CQRS and Mediator pattern.*
-  - *[CatalogHub[]](https://github.com/alysonsz/CatalogHub) — A robust .NET 8 RESTful API for product catalog management implementing Clean Architecture, Docker, PostgreSQL, and AWS S3.*
+  - *[CatalogHub](https://github.com/alysonsz/CatalogHub) — A robust .NET 8 RESTful API for product catalog management implementing Clean Architecture, Docker, PostgreSQL, and AWS S3.*
 
 - 📌 **Current Focus**:
   - *Deepening knowledge in Clean Architecture and scalable projects with .NET* 
