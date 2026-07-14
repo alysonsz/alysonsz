@@ -109,10 +109,9 @@ Possuo forte atuação na infraestrutura das aplicações — do uso de **Docker
 <details open>
 <summary><b>Mostrar / Ocultar</b></summary>
 
--   **[EventFlow](https://github.com/alysonsz/EventFlow-API)** — API
-    de alta performance com **Cache Distribuído (Redis)** e
-    observabilidade completa (**OpenTelemetry, Jaeger, Seq**) para
-    confiabilidade em produção.
+-   **EventNucleus (Ecossistema)** — Plataforma centralizada para orquestração de grandes eventos, facilitando o controle de cronogramas, credenciamento de participantes e gestão de palestrantes de forma escalável.
+    - **[API (Backend)](https://github.com/alysonsz/EventNucleus)**: O motor de regras de negócio focado em alta disponibilidade e confiabilidade na nuvem, suportado por **Cache Distribuído (Redis)** e monitoramento contínuo (**OpenTelemetry**, **Seq**).
+    - **[Frontend (Web)](https://github.com/alysonsz/EventNucleus-frontend)**: Cliente de consumo construído em **Next.js** e **React** para materializar os dados da API, aplicando conceitos modernos de UI como **Glassmorphism**, **Dark Mode** e internacionalização (**i18n**).
 
 -   **[Finance API](https://github.com/alysonsz/Finance-API)** —
     Sistema financeiro modular aplicando **CQRS** e **Mediator**,
