@@ -18,7 +18,7 @@
   </a>
 </p>
 
-**[Portfólio → alyson.dev](https://alyson.dev)**
+**[Portfólio → alyson.dev](https://alysonsz.github.io/alyson.dev/)**
 
 </div>
 
@@ -124,7 +124,7 @@ Ajudo a criar encontros, workshops e conexões entre profissionais, palestrantes
 
 ### Engenharia entre produto, performance e operação.
 
-[**Visitar portfólio → alyson.dev**](https://alyson.dev)
+[**Visitar portfólio → alyson.dev**](https://alysonsz.github.io/alyson.dev/)
 
 [GitHub](https://github.com/alysonsz) · [LinkedIn](https://www.linkedin.com/in/alyson-carregosa/)
 
