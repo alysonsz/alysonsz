@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="500" height="340" alt="hero" src="https://github.com/user-attachments/assets/40222a65-01ab-4693-9179-edb47614ab74" />
+<img width="500" height="340" alt="hero" src="https://github.com/user-attachments/assets/a4988d5a-3258-40c1-b469-b835481d84c1" />
 
 # Alyson Souza Carregosa
 
 ### Engenheiro de Software Full-stack · .NET · Web · Mobile · Sergipe, BR
 
 <p>
-  <a href="./cv/CV - Alyson Carregosa Portuguese Version.pdf">
+  <a href="https://alysonsz.github.io/alyson.dev/assets/curriculo-alyson-carregosa.pdf">
     <img src="https://img.shields.io/badge/CV%20PT--BR-333?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
   <a href="./cv/CV - Alyson Carregosa English Version.pdf">
