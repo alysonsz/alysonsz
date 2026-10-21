@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="500" height="340" alt="hero" src="https://github.com/user-attachments/assets/a4988d5a-3258-40c1-b469-b835481d84c1" />
-
 # Alyson Souza Carregosa
 
 ### Engenheiro de Software Full-stack · .NET · Web · Mobile · Sergipe, BR
